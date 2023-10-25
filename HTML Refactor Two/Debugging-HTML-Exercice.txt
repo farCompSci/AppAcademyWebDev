@@ -1,0 +1,1 @@
+This exercise was accomplished by observing a given file and modifying it to look look the way the author wants it to.
