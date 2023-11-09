@@ -1,0 +1,53 @@
+h1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif,serif;
+    padding: 10px;
+    margin: auto;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: lightcoral;
+    text-align: center;
+    border-radius: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: auto;
+    font-weight: bold;
+    color: darkred;
+    background-color: none;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.8rem;
+    /* padding: ; */
+    /* margin: ; */
+    color: black;
+    background-color: none;
+    text-align: center;
+}
+
+.logo {
+    background-size: cover;
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    margin: 30px auto;
+}
+
+.story-box{
+    width: 70%;
+    margin: 20px auto;
+}
+
+header{
+    width: 80%;
+    margin: auto;
+}
